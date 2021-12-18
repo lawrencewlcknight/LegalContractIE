@@ -1,2 +1,2 @@
-# LegalContractIE
-Information extraction from legal contracts
+# LegalContractInformationExtraction
+Information extraction from legal contracts.
